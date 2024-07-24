@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "terraform.html",
+    "href": "terraform.html",
+    "title": "Terraform",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Table of contents",
+    "section": "",
+    "text": "Table of contents\n\nLearning Infrastructure-as-Code - Use Cases"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "ansible.html",
+    "href": "ansible.html",
+    "title": "Ansible",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "packer.html",
+    "href": "packer.html",
+    "title": "Packer",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Learning Infrastructure-as-Code - Use-Cases",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Infrastructure-as-Code\n\n\n\n\n\nflowchart LR\n  A[Learner] --&gt; B(UC: Master Ansible)\n  A[Learner] --&gt; C(UC: Master Packer)\n  A[Learner] --&gt; D(UC: Master Terraform)\n  B --&gt; F{Abstract UC: Master Infrastructure-as-Code}\n  C --&gt; F{Abstract UC: Master Infrastructure-as-Code}\n  D --&gt; F{Abstract UC: Master Infrastructure-as-Code}"
+  }
+]

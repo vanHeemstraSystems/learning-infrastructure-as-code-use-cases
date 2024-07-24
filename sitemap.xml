@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://vanHeemstraSystems.github.io/learning-infrastructure-as-code-use-cases/terraform.html</loc>
+    <lastmod>2024-07-24T10:34:36.385Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vanHeemstraSystems.github.io/learning-infrastructure-as-code-use-cases/SUMMARY.html</loc>
+    <lastmod>2024-07-24T10:34:36.381Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vanHeemstraSystems.github.io/learning-infrastructure-as-code-use-cases/about.html</loc>
+    <lastmod>2024-07-24T10:34:36.385Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vanHeemstraSystems.github.io/learning-infrastructure-as-code-use-cases/ansible.html</loc>
+    <lastmod>2024-07-24T10:34:36.385Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vanHeemstraSystems.github.io/learning-infrastructure-as-code-use-cases/packer.html</loc>
+    <lastmod>2024-07-24T10:34:36.385Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vanHeemstraSystems.github.io/learning-infrastructure-as-code-use-cases/index.html</loc>
+    <lastmod>2024-07-24T10:34:36.385Z</lastmod>
+  </url>
+</urlset>
