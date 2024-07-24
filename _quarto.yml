@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Learning Infrastructure-as-Code - Use-Cases"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: ansible.qmd
+        text: Ansible
+      - href: packer.qmd
+        text: Packer       
+      - href: terraform.qmd
+        text: Terraform
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+execute:
+  freeze: auto
